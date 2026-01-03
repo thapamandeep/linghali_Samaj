@@ -62,6 +62,7 @@
   <option>Dhankuta</option>
   <option>Ilam</option>
   <option>Jhapa</option>
+  <option>Kaski</option>
   <option>Khotang</option>
   <option>Morang</option>
   <option>Okhaldhunga</option>
@@ -189,9 +190,11 @@
   <option>Banepa</option>
   <option>Dhulikhel</option>
   <option>Panauti</option>
+  <option>Putalibazar</option>
   <option>Bidur</option>
   <option>Baglung</option>
   <option>Putalibazar</option>
+  <option>Pokhara</option>
   <option>Besisahar</option>
   <option>Tansen</option>
   <option>Gorkha</option>
@@ -218,6 +221,8 @@
   <option>Okhaldhunga</option>
   <option>Panchthar</option>
   <option>Sankhuwasabha</option>
+  <option>Syangja</option>
+  <option>Kaski</option>
   <option>Solukhumbu</option>
   <option>Sunsari</option>
   <option>Taplejung</option>
@@ -331,6 +336,7 @@
   <option>Surkhet</option>
   <option>Ghorahi</option>
   <option>Tulsipur</option>
+  <option>Putalibazar</option>
   <option>Kalaiya</option>
   <option>Rajbiraj</option>
   <option>Siraha</option>

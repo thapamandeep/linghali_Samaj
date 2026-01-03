@@ -6,4 +6,6 @@ use App\Http\Controllers\FormController;
 
 Route::get('/',[SiteController::class,'first'])->name('openpage');
 Route::get('/form-page',[SiteController::class,'linghali'])->name('formpage');
+Route::get('/table-form',[SiteController::class,'formtable'])->name('peopleRecord');
+
 Route::post('/form-register',[FormController::class,'store'])->name('formRegister');

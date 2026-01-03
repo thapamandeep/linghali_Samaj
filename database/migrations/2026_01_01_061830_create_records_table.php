@@ -21,7 +21,7 @@ return new class extends Migration
             $table->string('PerCity');
            $table->string('TampDistrict');
             $table->string('TampStreet');
-            $table->string('TampCity');
+            $table->string('TampCity'); 
             $table->Date('Joindate');
             $table->string('Email');
             $table->string('Contact');

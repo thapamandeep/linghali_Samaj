@@ -15,6 +15,7 @@
      
     
         <a href="{{ route('formpage') }}"> <label id="formpage">Form page</label></a>
+        <a href="{{ route('peopleRecord') }}"> <button id="formpage">Record data button</button></a>
 
   
 </body>
