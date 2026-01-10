@@ -27,8 +27,10 @@ tr:nth-child(even) {
 
 </head>
 <body>
+  <h1>Langhali Members Data</h1>
     <table>
         <tr>
+          <th>Id</th>
         <th>First Name</th>
         <th>Middle Name</th>
         <th>Last Name</th>
@@ -37,15 +39,18 @@ tr:nth-child(even) {
         <th>Per City</th>
         <th>Tamp District</th>
         <th>Tamp Street</th>
-        <th>Tamp Street</th>
         <th>Tamp City</th>
         <th>Join Date</th>
         <th>Email</th>
+        <th>Contact</th>
         <th>Message</th>
+        <th>Edition</th>
+        <th>Delete</th>
         </tr>
         
 @foreach($allrecords as $record)
         <tr>
+            <td>{{ $record->id}}</td>
             <td>{{ $record->Firstname }}</td>
             <td>{{ $record->Middlename }}</td>
             <td>{{ $record->Lastname }}</td>
@@ -59,6 +64,8 @@ tr:nth-child(even) {
             <td>{{ $record->Email }}</td>
             <td>{{ $record->Contact }}</td>
             <td>{{ $record->Message }}</td>
+            <td><a href="{{route('dataEdit',$record->id)}}"><button>Edit</button></a></td>
+            <td><button>Delete</button></td>
         </tr>
         @endforeach
     </table>

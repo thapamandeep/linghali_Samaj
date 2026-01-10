@@ -18,6 +18,11 @@ class SiteController extends Controller
     public function formtable(){
         $allrecords = Record::all();
 
-        return view('recorddata.index',compact('allrecords'));
+        return view('recorddata.dataView',compact('allrecords'));
+    }
+
+    // for  edit data
+    public function editData(Record $record){
+         return view('recorddata.dataEdit', compact('record'));
     }
 }
