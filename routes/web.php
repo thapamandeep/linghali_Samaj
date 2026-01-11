@@ -13,3 +13,7 @@ Route::post('/form-register',[FormController::class,'store'])->name('formRegiste
 
 // for edit data
 Route::get('/data-edit/{record}',[SiteController::class,'editData'])->name('dataEdit');
+
+// for delete data
+Route::get('/data-delete/{record}',[SiteController::class,'deleteData'])->name('dataDelete');
+

@@ -23,11 +23,20 @@ td, th {
 tr:nth-child(even) {
   background-color: #dddddd;
 }
+#home{
+  position:relative;
+  left:90%;
+  bottom:40px;
+}
+
 </style>
 
 </head>
 <body>
+  
   <h1>Langhali Members Data</h1>
+   <a href="{{route('openpage')}}"> <button id="home">Back to home</button></a>
+    
     <table>
         <tr>
           <th>Id</th>
@@ -65,9 +74,10 @@ tr:nth-child(even) {
             <td>{{ $record->Contact }}</td>
             <td>{{ $record->Message }}</td>
             <td><a href="{{route('dataEdit',$record->id)}}"><button>Edit</button></a></td>
-            <td><button>Delete</button></td>
+            <td><a href="{{route('dataDelete',$record->id)}}"><button>Delete</button></a></td>
         </tr>
         @endforeach
     </table>
+
 </body>
 </html>

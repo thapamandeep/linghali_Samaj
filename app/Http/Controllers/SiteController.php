@@ -25,4 +25,11 @@ class SiteController extends Controller
     public function editData(Record $record){
          return view('recorddata.dataEdit', compact('record'));
     }
+
+    // for delete data
+    public function deleteData(Record $record){
+    $record->delete();
+    $allrecords = Record::all();
+    return redirect()->route('peopleRecord', compact('allrecords'));
+    }
 }

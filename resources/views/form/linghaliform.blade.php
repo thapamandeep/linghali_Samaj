@@ -5,6 +5,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
     <link rel="stylesheet" href="{{ asset('css/style.css') }}">
+    <style>
+        #home{
+            position:relative;
+            left:90%;
+            bottom:10px;
+        }
+    </style>
 </head>
 <body>
     <div id="barner">
@@ -12,6 +19,8 @@
     <h4 id="smallheading">Pokhara-14,Chauthe</h4>
     </div> 
       <p id="smallheading">Join Form</p>
+
+     <a href="{{route('openpage')}}"> <button id="home">Back to home page</button></a>
      
       <hr>
      
