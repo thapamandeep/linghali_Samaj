@@ -65,95 +65,89 @@
 @enderror
 
   <option value="">-- Choose District --</option>
+ <option value="bhojpur">Bhojpur</option>
+<option value="dhankuta">Dhankuta</option>
+<option value="ilam">Ilam</option>
+<option value="jhapa">Jhapa</option>
+<option value="kaski">Kaski</option>
+<option value="khotang">Khotang</option>
+<option value="morang">Morang</option>
+<option value="okhaldhunga">Okhaldhunga</option>
+<option value="panchthar">Panchthar</option>
+<option value="sankhuwasabha">Sankhuwasabha</option>
+<option value="solukhumbu">Solukhumbu</option>
+<option value="sunsari">Sunsari</option>
+<option value="taplejung">Taplejung</option>
+<option value="terhathum">Terhathum</option>
+<option value="udayapur">Udayapur</option>
 
- 
-  <option>Bhojpur</option>
-  <option>Dhankuta</option>
-  <option>Ilam</option>
-  <option>Jhapa</option>
-  <option>Kaski</option>
-  <option>Khotang</option>
-  <option>Morang</option>
-  <option>Okhaldhunga</option>
-  <option>Panchthar</option>
-  <option>Sankhuwasabha</option>
-  <option>Solukhumbu</option>
-  <option>Sunsari</option>
-  <option>Taplejung</option>
-  <option>Terhathum</option>
-  <option>Udayapur</option>
+<option value="bara">Bara</option>
+<option value="dhanusha">Dhanusha</option>
+<option value="mahottari">Mahottari</option>
+<option value="parsa">Parsa</option>
+<option value="rautahat">Rautahat</option>
+<option value="saptari">Saptari</option>
+<option value="sarlahi">Sarlahi</option>
+<option value="siraha">Siraha</option>
 
-  <option>Bara</option>
-  <option>Dhanusha</option>
-  <option>Mahottari</option>
-  <option>Parsa</option>
-  <option>Rautahat</option>
-  <option>Saptari</option>
-  <option>Sarlahi</option>
-  <option>Siraha</option>
+<option value="bhaktapur">Bhaktapur</option>
+<option value="chitwan">Chitwan</option>
+<option value="dhading">Dhading</option>
+<option value="dolakha">Dolakha</option>
+<option value="kathmandu">Kathmandu</option>
+<option value="kavrepalanchok">Kavrepalanchok</option>
+<option value="lalitpur">Lalitpur</option>
+<option value="makwanpur">Makwanpur</option>
+<option value="nuwakot">Nuwakot</option>
+<option value="ramechhap">Ramechhap</option>
+<option value="rasuwa">Rasuwa</option>
+<option value="sindhuli">Sindhuli</option>
+<option value="sindhupalchok">Sindhupalchok</option>
 
+<option value="baglung">Baglung</option>
+<option value="gorkha">Gorkha</option>
+<option value="lamjung">Lamjung</option>
+<option value="manang">Manang</option>
+<option value="mustang">Mustang</option>
+<option value="myagdi">Myagdi</option>
+<option value="nawalpur">Nawalpur</option>
+<option value="parbat">Parbat</option>
+<option value="syangja">Syangja</option>
+<option value="tanahun">Tanahun</option>
 
-  <option>Bhaktapur</option>
-  <option>Chitwan</option>
-  <option>Dhading</option>
-  <option>Dolakha</option>
-  <option>Kathmandu</option>
-  <option>Kavrepalanchok</option>
-  <option>Lalitpur</option>
-  <option>Makwanpur</option>
-  <option>Nuwakot</option>
-  <option>Ramechhap</option>
-  <option>Rasuwa</option>
-  <option>Sindhuli</option>
-  <option>Sindhupalchok</option>
+<option value="arghakhanchi">Arghakhanchi</option>
+<option value="banke">Banke</option>
+<option value="bardiya">Bardiya</option>
+<option value="dang">Dang</option>
+<option value="gulmi">Gulmi</option>
+<option value="kapilvastu">Kapilvastu</option>
+<option value="palpa">Palpa</option>
+<option value="pyuthan">Pyuthan</option>
+<option value="rolpa">Rolpa</option>
+<option value="rukum_east">Rukum East</option>
+<option value="rupandehi">Rupandehi</option>
 
-  <option>Baglung</option>
-  <option>Gorkha</option>
-  <option>Kaski</option>
-  <option>Lamjung</option>
-  <option>Manang</option>
-  <option>Mustang</option>
-  <option>Myagdi</option>
-  <option>Nawalpur</option>
-  <option>Parbat</option>
-  <option>Syangja</option>
-  <option>Tanahun</option>
+<option value="dailekh">Dailekh</option>
+<option value="dolpa">Dolpa</option>
+<option value="humla">Humla</option>
+<option value="jajarkot">Jajarkot</option>
+<option value="jumla">Jumla</option>
+<option value="kalikot">Kalikot</option>
+<option value="mugu">Mugu</option>
+<option value="rukum_west">Rukum West</option>
+<option value="salyan">Salyan</option>
+<option value="surkhet">Surkhet</option>
 
+<option value="achham">Achham</option>
+<option value="baitadi">Baitadi</option>
+<option value="bajhang">Bajhang</option>
+<option value="bajura">Bajura</option>
+<option value="dadeldhura">Dadeldhura</option>
+<option value="darchula">Darchula</option>
+<option value="doti">Doti</option>
+<option value="kailali">Kailali</option>
+<option value="kanchanpur">Kanchanpur</option>
 
-  <option>Arghakhanchi</option>
-  <option>Banke</option>
-  <option>Bardiya</option>
-  <option>Dang</option>
-  <option>Gulmi</option>
-  <option>Kapilvastu</option>
-  <option>Palpa</option>
-  <option>Pyuthan</option>
-  <option>Rolpa</option>
-  <option>Rukum East</option>
-  <option>Rupandehi</option>
-
-
-  <option>Dailekh</option>
-  <option>Dolpa</option>
-  <option>Humla</option>
-  <option>Jajarkot</option>
-  <option>Jumla</option>
-  <option>Kalikot</option>
-  <option>Mugu</option>
-  <option>Rukum West</option>
-  <option>Salyan</option>
-  <option>Surkhet</option>
-
- 
-  <option>Achham</option>
-  <option>Baitadi</option>
-  <option>Bajhang</option>
-  <option>Bajura</option>
-  <option>Dadeldhura</option>
-  <option>Darchula</option>
-  <option>Doti</option>
-  <option>Kailali</option>
-  <option>Kanchanpur</option>
 </select>
 
 <label id="namelabel">Street:</label>
@@ -172,43 +166,42 @@
 
   <option value="">-- Choose City --</option>
 
-  <option>Kathmandu</option>
-  <option>Lalitpur</option>
-  <option>Bhaktapur</option>
-  <option>Pokhara</option>
-  <option>Bharatpur</option>
-  <option>Biratnagar</option>
-  <option>Birgunj</option>
-  <option>Janakpur</option>
-  <option>Dharan</option>
-  <option>Itahari</option>
-  <option>Hetauda</option>
-  <option>Butwal</option>
-  <option>Bhairahawa</option>
-  <option>Nepalgunj</option>
-  <option>Dhangadhi</option>
-  <option>Mahendranagar</option>
-  <option>Surkhet</option>
-  <option>Ghorahi</option>
-  <option>Tulsipur</option>
-  <option>Kalaiya</option>
-  <option>Rajbiraj</option>
-  <option>Siraha</option>
-  <option>Lahan</option>
-  <option>Inaruwa</option>
-  <option>Banepa</option>
-  <option>Dhulikhel</option>
-  <option>Panauti</option>
-  <option>Putalibazar</option>
-  <option>Bidur</option>
-  <option>Baglung</option>
-  <option>Putalibazar</option>
-  <option>Pokhara</option>
-  <option>Besisahar</option>
-  <option>Tansen</option>
-  <option>Gorkha</option>
-  <option>Jaleshwar</option>
-  <option>Malangwa</option>
+  <option value="kathmandu">Kathmandu</option>
+<option value="lalitpur">Lalitpur</option>
+<option value="bhaktapur">Bhaktapur</option>
+<option value="pokhara">Pokhara</option>
+<option value="bharatpur">Bharatpur</option>
+<option value="biratnagar">Biratnagar</option>
+<option value="birgunj">Birgunj</option>
+<option value="janakpur">Janakpur</option>
+<option value="dharan">Dharan</option>
+<option value="itahari">Itahari</option>
+<option value="hetauda">Hetauda</option>
+<option value="butwal">Butwal</option>
+<option value="bhairahawa">Bhairahawa</option>
+<option value="nepalgunj">Nepalgunj</option>
+<option value="dhangadhi">Dhangadhi</option>
+<option value="mahendranagar">Mahendranagar</option>
+<option value="surkhet">Surkhet</option>
+<option value="ghorahi">Ghorahi</option>
+<option value="tulsipur">Tulsipur</option>
+<option value="kalaiya">Kalaiya</option>
+<option value="rajbiraj">Rajbiraj</option>
+<option value="siraha">Siraha</option>
+<option value="lahan">Lahan</option>
+<option value="inaruwa">Inaruwa</option>
+<option value="banepa">Banepa</option>
+<option value="dhulikhel">Dhulikhel</option>
+<option value="panauti">Panauti</option>
+<option value="putalibazar">Putalibazar</option>
+<option value="bidur">Bidur</option>
+<option value="baglung">Baglung</option>
+<option value="besisahar">Besisahar</option>
+<option value="tansen">Tansen</option>
+<option value="gorkha">Gorkha</option>
+<option value="jaleshwar">Jaleshwar</option>
+<option value="malangwa">Malangwa</option>
+
 </select>
 
 <h2 id="fheading">Temporary Address</h2>
@@ -221,94 +214,92 @@
   <option value="">-- Choose District --</option>
 
  
-  <option>Bhojpur</option>
-  <option>Dhankuta</option>
-  <option>Ilam</option>
-  <option>Jhapa</option>
-  <option>Khotang</option>
-  <option>Morang</option>
-  <option>Okhaldhunga</option>
-  <option>Panchthar</option>
-  <option>Sankhuwasabha</option>
-  <option>Syangja</option>
-  <option>Kaski</option>
-  <option>Solukhumbu</option>
-  <option>Sunsari</option>
-  <option>Taplejung</option>
-  <option>Terhathum</option>
-  <option>Udayapur</option>
+ <option value="">-- Choose District --</option>
 
-  <option>Bara</option>
-  <option>Dhanusha</option>
-  <option>Mahottari</option>
-  <option>Parsa</option>
-  <option>Rautahat</option>
-  <option>Saptari</option>
-  <option>Sarlahi</option>
-  <option>Siraha</option>
+<option value="bhojpur">Bhojpur</option>
+<option value="dhankuta">Dhankuta</option>
+<option value="ilam">Ilam</option>
+<option value="jhapa">Jhapa</option>
+<option value="khotang">Khotang</option>
+<option value="morang">Morang</option>
+<option value="okhaldhunga">Okhaldhunga</option>
+<option value="panchthar">Panchthar</option>
+<option value="sankhuwasabha">Sankhuwasabha</option>
+<option value="syangja">Syngja</option>
+<option value="kaski">Kaski</option>
+<option value="solukhumbu">Solukhumbu</option>
+<option value="sunsari">Sunsari</option>
+<option value="taplejung">Taplejung</option>
+<option value="terhathum">Terhathum</option>
+<option value="udayapur">Udayapur</option>
 
+<option value="bara">Bara</option>
+<option value="dhanusha">Dhanusha</option>
+<option value="mahottari">Mahottari</option>
+<option value="parsa">Parsa</option>
+<option value="rautahat">Rautahat</option>
+<option value="saptari">Saptari</option>
+<option value="sarlahi">Sarlahi</option>
+<option value="siraha">Siraha</option>
 
-  <option>Bhaktapur</option>
-  <option>Chitwan</option>
-  <option>Dhading</option>
-  <option>Dolakha</option>
-  <option>Kathmandu</option>
-  <option>Kavrepalanchok</option>
-  <option>Lalitpur</option>
-  <option>Makwanpur</option>
-  <option>Nuwakot</option>
-  <option>Ramechhap</option>
-  <option>Rasuwa</option>
-  <option>Sindhuli</option>
-  <option>Sindhupalchok</option>
+<option value="bhaktapur">Bhaktapur</option>
+<option value="chitwan">Chitwan</option>
+<option value="dhading">Dhading</option>
+<option value="dolakha">Dolakha</option>
+<option value="kathmandu">Kathmandu</option>
+<option value="kavrepalanchok">Kavrepalanchok</option>
+<option value="lalitpur">Lalitpur</option>
+<option value="makwanpur">Makwanpur</option>
+<option value="nuwakot">Nuwakot</option>
+<option value="ramechhap">Ramechhap</option>
+<option value="rasuwa">Rasuwa</option>
+<option value="sindhuli">Sindhuli</option>
+<option value="sindhupalchok">Sindhupalchok</option>
 
-  <option>Baglung</option>
-  <option>Gorkha</option>
-  <option>Kaski</option>
-  <option>Lamjung</option>
-  <option>Manang</option>
-  <option>Mustang</option>
-  <option>Myagdi</option>
-  <option>Nawalpur</option>
-  <option>Parbat</option>
-  <option>Syangja</option>
-  <option>Tanahun</option>
+<option value="baglung">Baglung</option>
+<option value="gorkha">Gorkha</option>
+<option value="lamjung">Lamjung</option>
+<option value="manang">Manang</option>
+<option value="mustang">Mustang</option>
+<option value="myagdi">Myagdi</option>
+<option value="nawalpur">Nawalpur</option>
+<option value="parbat">Parbat</option>
+<option value="syangja">Syangja</option>
+<option value="tanahun">Tanahun</option>
 
+<option value="arghakhanchi">Arghakhanchi</option>
+<option value="banke">Banke</option>
+<option value="bardiya">Bardiya</option>
+<option value="dang">Dang</option>
+<option value="gulmi">Gulmi</option>
+<option value="kapilvastu">Kapilvastu</option>
+<option value="palpa">Palpa</option>
+<option value="pyuthan">Pyuthan</option>
+<option value="rolpa">Rolpa</option>
+<option value="rukum_east">Rukum East</option>
+<option value="rupandehi">Rupandehi</option>
 
-  <option>Arghakhanchi</option>
-  <option>Banke</option>
-  <option>Bardiya</option>
-  <option>Dang</option>
-  <option>Gulmi</option>
-  <option>Kapilvastu</option>
-  <option>Palpa</option>
-  <option>Pyuthan</option>
-  <option>Rolpa</option>
-  <option>Rukum East</option>
-  <option>Rupandehi</option>
+<option value="dailekh">Dailekh</option>
+<option value="dolpa">Dolpa</option>
+<option value="humla">Humla</option>
+<option value="jajarkot">Jajarkot</option>
+<option value="jumla">Jumla</option>
+<option value="kalikot">Kalikot</option>
+<option value="mugu">Mugu</option>
+<option value="rukum_west">Rukum West</option>
+<option value="salyan">Salyan</option>
+<option value="surkhet">Surkhet</option>
 
+<option value="achham">Achham</option>
+<option value="baitadi">Baitadi</option>
+<option value="bajhang">Bajhang</option>
+<option value="bajura">Bajura</option>
+<option value="dadeldhura">Dadeldhura</option>
+<option value="darchula">Darchula</option>
+<option value="doti">Doti</option>
+<option value="kailali">Kailali</option>
+<option value="kanchanpur">Kanchanpur</option>
 
-  <option>Dailekh</option>
-  <option>Dolpa</option>
-  <option>Humla</option>
-  <option>Jajarkot</option>
-  <option>Jumla</option>
-  <option>Kalikot</option>
-  <option>Mugu</option>
-  <option>Rukum West</option>
-  <option>Salyan</option>
-  <option>Surkhet</option>
-
- 
-  <option>Achham</option>
-  <option>Baitadi</option>
-  <option>Bajhang</option>
-  <option>Bajura</option>
-  <option>Dadeldhura</option>
-  <option>Darchula</option>
-  <option>Doti</option>
-  <option>Kailali</option>
-  <option>Kanchanpur</option>
 </select>
 
 <label id="namelabel">Street:</label>
@@ -326,42 +317,42 @@
 @enderror
   <option value="">-- Choose City --</option>
 
-  <option>Kathmandu</option>
-  <option>Lalitpur</option>
-  <option>Bhaktapur</option>
-  <option>Pokhara</option>
-  <option>Bharatpur</option>
-  <option>Biratnagar</option>
-  <option>Birgunj</option>
-  <option>Janakpur</option>
-  <option>Dharan</option>
-  <option>Itahari</option>
-  <option>Hetauda</option>
-  <option>Butwal</option>
-  <option>Bhairahawa</option>
-  <option>Nepalgunj</option>
-  <option>Dhangadhi</option>
-  <option>Mahendranagar</option>
-  <option>Surkhet</option>
-  <option>Ghorahi</option>
-  <option>Tulsipur</option>
-  <option>Putalibazar</option>
-  <option>Kalaiya</option>
-  <option>Rajbiraj</option>
-  <option>Siraha</option>
-  <option>Lahan</option>
-  <option>Inaruwa</option>
-  <option>Banepa</option>
-  <option>Dhulikhel</option>
-  <option>Panauti</option>
-  <option>Bidur</option>
-  <option>Baglung</option>
-  <option>Putalibazar</option>
-  <option>Besisahar</option>
-  <option>Tansen</option>
-  <option>Gorkha</option>
-  <option>Jaleshwar</option>
-  <option>Malangwa</option>
+  <option value="kathmandu">Kathmandu</option>
+<option value="lalitpur">Lalitpur</option>
+<option value="bhaktapur">Bhaktapur</option>
+<option value="pokhara">Pokhara</option>
+<option value="bharatpur">Bharatpur</option>
+<option value="biratnagar">Biratnagar</option>
+<option value="birgunj">Birgunj</option>
+<option value="janakpur">Janakpur</option>
+<option value="dharan">Dharan</option>
+<option value="itahari">Itahari</option>
+<option value="hetauda">Hetauda</option>
+<option value="butwal">Butwal</option>
+<option value="bhairahawa">Bhairahawa</option>
+<option value="nepalgunj">Nepalgunj</option>
+<option value="dhangadhi">Dhangadhi</option>
+<option value="mahendranagar">Mahendranagar</option>
+<option value="surkhet">Surkhet</option>
+<option value="ghorahi">Ghorahi</option>
+<option value="tulsipur">Tulsipur</option>
+<option value="kalaiya">Kalaiya</option>
+<option value="rajbiraj">Rajbiraj</option>
+<option value="siraha">Siraha</option>
+<option value="lahan">Lahan</option>
+<option value="inaruwa">Inaruwa</option>
+<option value="banepa">Banepa</option>
+<option value="dhulikhel">Dhulikhel</option>
+<option value="panauti">Panauti</option>
+<option value="putalibazar">Putalibazar</option>
+<option value="bidur">Bidur</option>
+<option value="baglung">Baglung</option>
+<option value="besisahar">Besisahar</option>
+<option value="tansen">Tansen</option>
+<option value="gorkha">Gorkha</option>
+<option value="jaleshwar">Jaleshwar</option>
+<option value="malangwa">Malangwa</option>
+
 </select>
 
 <br>
